@@ -8,7 +8,7 @@ Home, About, Catering, Event Décor, Gallery, Reviews, FAQ, Contact.
 
 ## Contact release hold
 
-The lead sheet supplies `+91 98305 46702`. The matching Google Maps listing currently shows a different number, `+91 62911 12868`, while another directory associates the sheet number with a nearby club. A website linked from Google Maps belongs to a differently named caterer and gives a third phone number. Until business ownership of the correct contact number and WhatsApp availability are verified, this concept does not show a phone number or WhatsApp action. The enquiry form prepares a copyable message and explicitly does not send it. **Do not mark the lead Completed or send the preview to any of these numbers while this conflict remains.**
+The available contact sources disagree about the correct business phone, and WhatsApp availability is unverified. Until ownership of the correct number is confirmed, this concept does not show a phone number or WhatsApp action. The enquiry form prepares a copyable message and explicitly does not send it. **Do not mark the lead Completed or send a customer preview while this conflict remains.**
 
 The gallery mixes three documented listing photos from past events with three generated illustrations, always labeled on the site. Neither past photos nor illustrations imply current dishes, staff, stock, package availability, or completed work.
 

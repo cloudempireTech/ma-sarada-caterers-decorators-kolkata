@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cloudempiretech.github.io/ma-sarada-caterers-decorators-kolkata/sitemap.xml
