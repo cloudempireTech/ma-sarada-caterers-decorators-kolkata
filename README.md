@@ -1,17 +1,9 @@
-# Ma Sarada Caterers and Decorators — proposed website
+# Ma Sarada Caterers and Decorators
 
-Static, eight-page HTML/CSS/JavaScript concept for the Sinthee, Kolkata business. It is a proposed design, not a commissioned or approved official website. Photos and claims are traced in [docs/SOURCES.md](docs/SOURCES.md).
+Responsive eight-page HTML/CSS/JavaScript website concept, published at https://cloudempiretech.github.io/ma-sarada-caterers-decorators-kolkata/.
 
-## Pages
+Clean Apple-inspired spacing and system typography retain Ma Sarada’s aubergine-and-gold palette, with quiet depth, lightweight reveals, image zoom and reduced-motion support. Genuine historical photographs and labelled illustrations are documented in [docs/SOURCES.md](docs/SOURCES.md).
 
-Home, About, Catering, Event Décor, Gallery, Reviews, FAQ, Contact.
+Verified Google-listed telephone: +91 62911 12868. The enquiry form validates required fields and opens an encoded WhatsApp message for visitor review; it does not send automatically or confirm bookings. Shared WhatsApp icons use the maintained Simple Icons asset with a square aspect ratio and accessible labels.
 
-## Contact release hold
-
-The available contact sources disagree about the correct business phone, and WhatsApp availability is unverified. Until ownership of the correct number is confirmed, this concept does not show a phone number or WhatsApp action. The enquiry form prepares a copyable message and explicitly does not send it. **Do not mark the lead Completed or send a customer preview while this conflict remains.**
-
-The gallery mixes three documented listing photos from past events with three generated illustrations, always labeled on the site. Neither past photos nor illustrations imply current dishes, staff, stock, package availability, or completed work.
-
-## Publishing
-
-Publish the repository root through GitHub Pages. Canonical URLs, JSON-LD, `sitemap.xml` and `robots.txt` are initially set to `https://cloudempiretech.github.io/ma-sarada-caterers-decorators-kolkata/`; reconcile them with the URL displayed in Pages settings.
+Each page has a unique title, description, canonical and LocalBusiness JSON-LD. Sitemap, robots and separate business copyright/developer credit are included.

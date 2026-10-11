@@ -8,12 +8,13 @@
 - [Chotu local directory](https://chotu.com/local/catering-services-in-baranagar-kolkata-west-bengal-india/ct-18419823/) repeats the exact name and street address. Its generic page copy about all local caterers and WhatsApp is not evidence for this business's menu or channel.
 - The provided [IDBF directory link](https://kolkata.idbf.in/4090402/ma-sarada-caterers-and-decorators) returned an access error during research; it did not support additional claims.
 
-## Contact and existing-site conflict
+## Contact verification — 11 October 2026
 
-- A [separate public directory search result](https://www.cybo.com/IN-pin-code/700050_kolkata/other-membership-organizations/) associates the lead contact with a different nearby entity. This does not prove the lead is wrong, but it prevents a confident business contact claim. The contact number itself is omitted from this public file.
-- The matching Google Maps profile lists a different phone. A profile post dated 15 July 2026 references Ma Sarada with that public listing number. The sheet does not corroborate it. Do not silently replace the sheet phone with the listing number.
-- The website currently linked from the Maps profile is [swadkahoncatering.in/contact/](https://swadkahoncatering.in/contact/). On inspection it displayed the **Swadkahon Catering** brand and a Rajarhat address, so its details and social links were not attributed to Ma Sarada and it was not treated as Ma Sarada's original website.
-- The cloud WhatsApp Web session was logged out, preventing a registered-chat check. No customer outreach was attempted. The site intentionally offers location/listing links and a copy-only form pending contact confirmation.
+- The exact matching Google Maps business profile lists **+91 62911 12868**. The site uses this publicly listed number for calls and WhatsApp under the user's Google-source priority instruction.
+- The number resolved in WhatsApp Web to a **Caterer / Event planner** business account at **20 Mondal Para Lane**. The business profile's consultation description lists both this Google number and the alternate lead contact, corroborating ownership. Registration and business context were checked before adding the channel. The private chat is not stored in this repository.
+- Google uses Sinthee/Kolkata 700050 while the WhatsApp profile uses Baranagar 700090. The site retains the independently cross-checked Google/directory street address, omits uncorroborated hours and does not claim a new postal address.
+- The website linked from Maps, [swadkahoncatering.in/contact/](https://swadkahoncatering.in/contact/), displayed **Swadkahon Catering** at a Rajarhat address. Its details were not attributed to Ma Sarada. No original working website for the exact business was established.
+- The WhatsApp logo comes unchanged in shape from [Simple Icons' maintained WhatsApp SVG](https://github.com/simple-icons/simple-icons/blob/develop/icons/whatsapp.svg), rendered in WhatsApp green with its original square viewBox and preserved aspect ratio. No Meta endorsement is implied.
 
 ## Genuine historical photographs
 
@@ -37,3 +38,4 @@ Original images were 503×375, 739×415 and 720×526 pixels. They were converted
 ## Reviews
 
 The [matching Google Maps listing](https://www.google.com/maps/place/MA+SARADA+CATERERS+AND+DECORATORS/@22.62875,88.3886978,17z/data=!4m6!3m5!1s0x39f89deec45384e9:0x9afb1048fc7a527e!8m2!3d22.62875!4d88.3886978!16s%2Fg%2F11fxdtw3sg) exposed three individual reviews in its public limited view on 10 October 2026. The site uses brief faithful paraphrases with names and visible star counts, including both positive and critical feedback: Rohit Saha (5 stars, positive experience), Barin Dutta (2 stars, service/timing complaints and an owner response), Poulomi Mullick (5 stars, food and organised service). The public preview displayed relative dates, not exact calendar dates. A “More reviews (95)” control led to a Google sign-in prompt; remaining review text was not accessible. The site links to the listing for all current reviews and does not present the three summaries as the whole review corpus.
+
